@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 https://raw.githubusercontent.com/CoOlaRlL/iptv-api/refs/heads/master/output/cu.txt
-https://gbox.nasddns.site/tvbox/iptv.m3u
+https://ehe.serv00.net/tv3.m3u
