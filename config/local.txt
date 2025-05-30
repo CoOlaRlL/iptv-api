@@ -2,4 +2,3 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-https://raw.githubusercontent.com/CoOlaRlL/iptv-api/refs/heads/master/output/cu.txt
