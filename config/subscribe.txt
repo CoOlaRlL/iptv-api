@@ -11,3 +11,6 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/CoOlaRlL/iptv-api/refs/heads/master/output/cu.txt
+https://nptv.freetv.top/juhe.m3u
+https://yk95.yymmiptv.top
