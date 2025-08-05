@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-08-05 18:33:44,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+2025-08-06 07:02:06,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
 CCTV-1,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+CCTV-1,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=3817ca50a762ff83bc8d334da331289af793521d8bb2de106288e3c7bfbd4f400da7b7a0d45e8e5f3908edbe997bc97435737ae08ccac404064b7de1ad9dd844f73147aa85407e91748754eaff
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=fdb912a07262c854e703c2057c3565990c9965f0abff700bdff272d95998605b0a600255d4748f616cf3d45931378e423f91c6f9f41f1cdac26d8383044629e3a176dcd5931b327500edb5dfd3
@@ -261,11 +261,14 @@ CETV2,rtsp://122.191.50.135/PLTV/88888888/224/3221226120/10000100000000060000000
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -283,7 +286,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
