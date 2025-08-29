@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-29 18:33:37,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+2025-08-30 06:32:36,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
 
 📺央视频道,#genre#
 CCTV-1,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
@@ -169,7 +169,6 @@ CETV2,rtsp://122.191.50.135/PLTV/88888888/224/3221226120/10000100000000060000000
 第一剧场,rtsp://122.191.50.135/PLTV/88888888/224/3221226164/10000100000000060000000013249072_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DaOfqO2OgEVhSLOCcL1B/PokFTbj4rCw14DRUTelHCiM=:20220106103026,
 怀旧剧场,rtsp://122.191.50.135/PLTV/88888888/224/3221226150/10000100000000060000000013243116_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DRf0tR0JVFXMNAzHqKg5G6IkFTbj4rCw14DRUTelHCiM=:20220106103026,
 风云足球,rtsp://122.191.50.135/PLTV/88888888/224/3221226191/10000100000000060000000013244644_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DPTTMQT0QceRVa3meZ5j93YkFTbj4rCw14DRUTelHCiM=:20220106103026,
-电视指南,https://cc06.tv12.xyz/39.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=78af5371d66a723fc72d7a69c8a18ade502c19d2cf715aa502730a2b197148f3ac859ba4dfc8177df928c7b17e4f7e50e73fa17782751d96ca1224dc27c62d3025503e7b80de41b09560f78ee1
@@ -261,8 +260,10 @@ CETV2,rtsp://122.191.50.135/PLTV/88888888/224/3221226120/10000100000000060000000
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -280,7 +281,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
 🎬电影频道,#genre#
@@ -358,8 +358,6 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-经典动漫,https://www.goodiptv.club/yy/22777075
-漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
