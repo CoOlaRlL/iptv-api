@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
 https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
+https://sub.ottiptv.cc/iptv.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://tv-1.iill.top/m3u/Gather
 # https://ehe.serv00.net/tv3.m3u
