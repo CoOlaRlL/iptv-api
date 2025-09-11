@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-09-11 06:42:51,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
+2025-09-11 18:43:13,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
-CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
+CCTV-9,http://61.184.46.85:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://61.184.46.85:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
 CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -19,13 +18,10 @@ CCTV-12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&a
 CCTV-13,http://61.184.46.85:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
 CCTV-14,http://61.184.46.85:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
+CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
+CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
 CCTV-17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
-CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
-CCTV-17,http://123.116.125.121:8012/rtp/239.3.1.151:8144
-CCTV-17,http://123.116.125.121:8012/rtp/239.3.1.151:8144
+CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -94,8 +90,6 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 四川卫视,http://61.184.46.85:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://61.184.46.85:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://113.26.202.52:1299/tsfile/live/0135_1.m3u8
-天津卫视,http://113.26.202.52:1299/tsfile/live/0135_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -110,26 +104,26 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
-凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
+凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
+凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
-三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202
-三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
+三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202
+三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,http://iptv.4666888.xyz/iptv.php?id=20206
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
-东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
+东森综合,http://iptv.4666888.xyz/iptv.php?id=20206
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
 Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 Now华剧,http://iptv.4666888.xyz/iptv.php?id=20091
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
@@ -138,11 +132,11 @@ Now华剧,http://iptv.4666888.xyz/iptv.php?id=20091
 CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -151,22 +145,22 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
-东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140
@@ -193,27 +187,21 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 动漫秀场,rtsp://115.153.247.80/PLTV/88888888/224/3221225613/iptv7997.smil
 动漫秀场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225613/iptv7997.smil
 动漫秀场,rtsp://115.153.233.154/PLTV/88888888/224/3221225613/iptv7997.smil
-CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 优漫卡通,http://qjrhc.jydjd.top:2911/udp/224.1.100.119:11111
 金鹰卡通,http://61.184.46.85:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-海绵宝宝,http://1.94.31.214:35455/huya/11352919
-海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
-海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
 猫和老鼠,http://1.94.31.214:35455/huya/11352879
 蜡笔小新,http://1.94.31.214:35455/huya/11352970
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
 风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
@@ -229,4 +217,3 @@ CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 
 🏛经典剧场,#genre#
-水浒传,https://lunbo.freetv.top/yy/1353215589
