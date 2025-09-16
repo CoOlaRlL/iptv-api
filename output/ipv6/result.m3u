@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh.nasddns.site/https://raw.githubusercontent.com/CoOlaRlL/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-16 18:41:40
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-17 06:37:35
 https://www.freetv.top/migu/608807420.m3u8?migutoken=9674d857d6e43e0789d8ec76bab7cdbe190192db368f8f0e2f8018a3e2a160ee9f9ce8d41030046da2b0373378dd65c74a6af0f9a31b8828027b8367d720ea077aef2f2a08a603b4e16074c6b9
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=9674d857d6e43e0789d8ec76bab7cdbe190192db368f8f0e2f8018a3e2a160ee9f9ce8d41030046da2b0373378dd65c74a6af0f9a31b8828027b8367d720ea077aef2f2a08a603b4e16074c6b9
@@ -47,24 +47,18 @@ https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc810
 http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215bbc02fa208301259959a2d995deb9996c41b650e244fc75c3d5bae41d623bed5ba96aa38c7ea483d856771c119f74e8bb93fb60dc8304e146d0bf46405e88554d84e414
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://www.freetv.top/migu/624878405.m3u8?migutoken=e7e8abe9ae322869a93e8450014e08c5949217331c53007abb9f6eee64b06cc42f81828befee8b129005bcdebf805a1bbd19f0949e8329cf7ff4ab9379e930cfb8185ddf66c83b972ea6481e86
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
-https://mgtv.ottiptv.cc/migu/624878405.m3u8?migutoken=564bba31ad56da17bf0232e7c384054dad93d5fa9c641afcc326a87ec35064ec8f056b101cfa5e7332bb64edc0ee97452b8d9c79ed14a69ddea1508342a928fc5908bb3c614a6b86dc1803ff1f
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
-https://mgtv.ottiptv.cc/migu/624878405.m3u8?migutoken=564bba31ad56da17bf0232e7c384054dad93d5fa9c641afcc326a87ec35064ec8f056b101cfa5e7332bb64edc0ee97452b8d9c79ed14a69ddea1508342a928fc5908bb3c614a6b86dc1803ff1f
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 http://www.freetv.top/migu/667987558.m3u8?migutoken=00a21f1483e571da068c555e3eea928f7c6183b26d7acc2afe9bb5e115f0005e02b6118176789d76765ae297bd6dfe4e14966e64415f0781535d91ed266aac177d6ff10fa6358e0eedddc2223b
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://www.freetv.top/migu/667987558.m3u8?migutoken=dfda8acb7dfd1d1149e2e4a381e46a298c47e88f939d7deef7846d6e15f76fc596a0a58e349a64678edbb921fc353b458211c4bbf22e23bb75fd1dc9384d8c251c729958bddd28ec81d8c0922f
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://mgtv.ottiptv.cc/migu/667987558.m3u8?migutoken=630c10d9c7189eca0e3d8082c4b972843767cee4941bd7f553a45fa04a3ca00f11619d86c6b747560cf6055c2882cd8fafd2a2a3aa0125e3a5cb8204881c25dbb5901517c6ce5371c30fb83d5b
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+https://mgtv.ottiptv.cc/migu/667987558.m3u8?migutoken=630c10d9c7189eca0e3d8082c4b972843767cee4941bd7f553a45fa04a3ca00f11619d86c6b747560cf6055c2882cd8fafd2a2a3aa0125e3a5cb8204881c25dbb5901517c6ce5371c30fb83d5b
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d01a06b42a10c31f3ccb417bae200ac3028f30a8110509f2cd6cd130aee4b21c85693aa49817f3381e4d28e140d8db1a20b6fecea22fec17a70ff1341efe6081
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=a803c5816215db51a2786442dbf12584fbb956e9004f55850e60e7e9f05f9c64432db9341c81e949e5775d901fd08389ca07926381b98c737513a72fe74381dc4c097c90550a157d6834b5be83
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=a803c5816215db51a2786442dbf12584fbb956e9004f55850e60e7e9f05f9c64432db9341c81e949e5775d901fd08389ca07926381b98c737513a72fe74381dc4c097c90550a157d6834b5be83
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://mgtv.ottiptv.cc/migu/673168185.m3u8?migutoken=ec6556fba740bc9c1874c491f470ddeaabdbb696e08816ea6ed1f0224008b4f3fcf4abba43dd7afd0d9af9d571fe631c78eccf94b4f964e1511a09bce673adafaadd8c825628be0fbd9a7cd548
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -79,6 +73,8 @@ https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=d5ef5300e74fc38bc7cc8bf1f305b8200e0d235d1641e44bf07fba0fc0046e58e9bea0493a054d3fb0daaec1a307756c5a74306222caeb74b2298b9a47828b09d33809cea4115a2a8a3a6c4912
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=d5ef5300e74fc38bc7cc8bf1f305b8200e0d235d1641e44bf07fba0fc0046e58e9bea0493a054d3fb0daaec1a307756c5a74306222caeb74b2298b9a47828b09d33809cea4115a2a8a3a6c4912
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -234,10 +230,6 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
 https://mursor.ottiptv.cc/mcp/shandong.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://cc02.tv12.xyz/8.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://cc02.tv12.xyz/8.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
@@ -258,6 +250,8 @@ https://mursor.ottiptv.cc/mcp/tianjing.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://cc02.tv12.xyz/9.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://cc02.tv12.xyz/9.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://mursor.ottiptv.cc/mcp/xizang.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://cc02.tv12.xyz/10.m3u8
@@ -266,13 +260,13 @@ https://mursor.ottiptv.cc/mcp/xinjiang.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 https://mursor.ottiptv.cc/mcp/yunnan.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
@@ -395,6 +389,10 @@ https://live.metshop.top/huya/11342413
 https://www.goodiptv.club/yy/22777075
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
 https://www.goodiptv.club/yy/22777075
+#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
+https://yylunbo.ottiptv.cc/yy/1382735568
+#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
+https://yylunbo.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
