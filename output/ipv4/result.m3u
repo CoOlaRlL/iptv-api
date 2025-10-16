@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://gh.nasddns.site/https://raw.githubusercontent.com/CoOlaRlL/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-16 18:34:13
-http://zqh2333.top:2222/rtp/239.93.55.54:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-17 06:28:27
+http://106.53.99.30/tv/cctv13.php
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+http://106.53.99.30/tv/cctv13.php
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+http://106.53.99.30/tv/cctv13.php
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 http://zqh2333.top:2222/rtp/239.93.55.54:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
@@ -94,11 +98,9 @@ http://218.8.87.96:4000/rtp/229.58.190.80:5000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://218.8.87.96/rtp/229.58.190.38:5000$黑龙江联通组播源-cache:218.8.87.96
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://60.16.0.216:5757/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://60.16.0.216:5757/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://218.8.87.96/rtp/229.58.190.104:5000$黑龙江联通组播源-cache:218.8.87.96
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://60.16.0.216:5757/hls/34/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://60.16.0.216:5757/hls/34/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
@@ -110,11 +112,7 @@ http://60.16.0.216:5757/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://218.8.87.96/rtp/229.58.190.179:5000$黑龙江联通组播源-cache:218.8.87.96
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://ygbh.site/php/bfgd.php?id=115
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://218.8.87.96/rtp/229.58.190.176:5000$黑龙江联通组播源-cache:218.8.87.96
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://ygbh.site/php/bfgd.php?id=115
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
@@ -174,29 +172,25 @@ http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
-http://115.171.216.75:4000/rtp/225.1.8.37:8002
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
-http://115.171.216.75:4000/rtp/225.1.8.37:8002
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
-http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
-http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘娱乐.png" group-title="🎬电影频道",淘娱乐
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘娱乐.png" group-title="🎬电影频道",淘娱乐
 http://115.171.216.75:4000/rtp/225.1.8.61:8002
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘娱乐.png" group-title="🎬电影频道",淘娱乐
+http://115.171.216.75:4000/rtp/225.1.8.61:8002
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘娱乐.png" group-title="🎬电影频道",淘娱乐
+http://lt.hxtre.com:35455/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/淘娱乐.png" group-title="🎬电影频道",淘娱乐
 http://lt.hxtre.com:35455/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬电影频道",靖天映画
@@ -249,6 +243,8 @@ http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 http://218.8.87.96/rtp/229.58.190.112:5000$黑龙江联通组播源-cache:218.8.87.96
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://ygbh.site/php/bfgd.php?id=144
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
+http://ygbh.site/php/bfgd.php?id=144
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://218.8.87.96/rtp/229.58.190.113:5000$黑龙江联通组播源-cache:218.8.87.96
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
@@ -263,8 +259,6 @@ http://zzy789.xyz/douyu1.php?id=488743
 http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
 http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
@@ -285,6 +279,8 @@ https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/CN卡通.png" group-title="🪁动画频道",CN卡通
 http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
+http://139.129.231.228/rtp/239.21.1.50:5002$山东电信组播源-cache:139.129.231.228
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
 http://218.8.87.96/rtp/229.58.190.165:5000$黑龙江联通组播源-cache:218.8.87.96
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.nasddns.site/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
