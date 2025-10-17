@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-17 06:28:27,http://106.53.99.30/tv/cctv13.php
+2025-10-17 18:34:49,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
 CCTV-13,http://106.53.99.30/tv/cctv13.php
@@ -51,14 +51,14 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 甘肃卫视,http://218.8.87.96:4000/rtp/229.58.190.185:5000
 内蒙古卫视,http://zqh2333.top:2222/rtp/239.93.24.8:5140
+内蒙古卫视,http://218.8.87.96:4000/rtp/229.58.190.183:5000
 山西卫视,http://zqh2333.top:2222/rtp/239.93.24.6:5140
 陕西卫视,http://218.8.87.96:4000/rtp/229.58.190.80:5000
 四川卫视,http://218.8.87.96/rtp/229.58.190.38:5000$黑龙江联通组播源-cache:218.8.87.96
 深圳卫视,http://218.8.87.96/rtp/229.58.190.104:5000$黑龙江联通组播源-cache:218.8.87.96
-天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8
-天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8
 天津卫视,http://218.8.87.96/rtp/229.58.190.161:5000$黑龙江联通组播源-cache:218.8.87.96
 西藏卫视,http://218.8.87.96/rtp/229.58.190.177:5000$黑龙江联通组播源-cache:218.8.87.96
+新疆卫视,http://60.16.0.216:5757/hls/47/index.m3u8
 新疆卫视,http://60.16.0.216:5757/hls/47/index.m3u8
 新疆卫视,http://218.8.87.96/rtp/229.58.190.179:5000$黑龙江联通组播源-cache:218.8.87.96
 云南卫视,http://218.8.87.96/rtp/229.58.190.176:5000$黑龙江联通组播源-cache:218.8.87.96
@@ -134,15 +134,7 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 魅力足球,http://218.8.87.96/rtp/229.58.190.112:5000$黑龙江联通组播源-cache:218.8.87.96
-天元围棋,http://ygbh.site/php/bfgd.php?id=144
-天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://218.8.87.96/rtp/229.58.190.113:5000$黑龙江联通组播源-cache:218.8.87.96
-JJ斗地主,https://lunbo.freetv.top/douyu/488743
-JJ斗地主,https://lunbo.freetv.top/douyu/488743
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🪁动画频道,#genre#
 动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
@@ -155,16 +147,13 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-优漫卡通,http://139.129.231.228/rtp/239.21.1.50:5002$山东电信组播源-cache:139.129.231.228
 优漫卡通,http://218.8.87.96/rtp/229.58.190.165:5000$黑龙江联通组播源-cache:218.8.87.96
 金鹰卡通,http://139.129.231.228/rtp/239.21.1.48:5002$山东电信组播源-cache:139.129.231.228
+金鹰卡通,http://ygbh.site/php/bfgd.php?id=105
 金鹰卡通,http://218.8.87.96/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:218.8.87.96
 金鹰卡通,http://ygbh.site/php/bfgd.php?id=105
 炫动卡通,http://139.129.231.228/rtp/239.21.1.51:5002$山东电信组播源-cache:139.129.231.228
 炫动卡通,http://218.8.87.96/rtp/229.58.190.96:5000$黑龙江联通组播源-cache:218.8.87.96
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
-猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
 
 🎮游戏频道,#genre#
 游戏风云,http://218.8.87.96/rtp/229.58.190.114:5000$黑龙江联通组播源-cache:218.8.87.96
@@ -183,6 +172,3 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 🏛经典剧场,#genre#
 笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
 笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
-笑傲江湖,https://lunbo.freetv.top/yy/1352833750
-笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
-水浒传,https://lunbo.freetv.top/yy/1353215589
