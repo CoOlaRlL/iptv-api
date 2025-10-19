@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-19 18:31:05,http://124.88.238.50:82/hls/2/index.m3u8
+2025-10-20 06:29:55,http://124.88.238.50:82/hls/4/index.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://124.88.238.50:82/hls/2/index.m3u8
-CCTV-2,http://124.88.238.50:82/hls/2/index.m3u8
+CCTV-4,http://124.88.238.50:82/hls/4/index.m3u8
 CCTV-4,http://124.88.238.50:82/hls/4/index.m3u8
 CCTV-5,http://124.88.238.50:82/hls/5/index.m3u8
 CCTV-7,http://124.88.238.50:82/hls/7/index.m3u8
@@ -97,14 +96,14 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
@@ -118,12 +117,11 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
-天映经典,https://tv543.cc/Smart.php?id=Celestial2
-天映经典,https://tv543.cc/Smart.php?id=Celestial2
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森洋片,https://tv543.cc/Smart.php?id=ettvwestern
@@ -148,10 +146,10 @@ CCTV-5,http://124.88.238.50:82/hls/5/index.m3u8
 快乐垂钓,http://218.8.87.96/rtp/229.58.190.113:5000$黑龙江联通组播源-cache:218.8.87.96
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🪁动画频道,#genre#
 动漫秀场,http://218.8.87.96/rtp/229.58.190.97:5000$黑龙江联通组播源-cache:218.8.87.96
@@ -166,6 +164,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 优漫卡通,http://218.8.87.96/rtp/229.58.190.165:5000$黑龙江联通组播源-cache:218.8.87.96
+优漫卡通,http://139.129.231.228/rtp/239.21.1.50:5002$山东电信组播源-cache:139.129.231.228
 金鹰卡通,http://218.8.87.96/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:218.8.87.96
 金鹰卡通,http://139.129.231.228/rtp/239.21.1.48:5002$山东电信组播源-cache:139.129.231.228
 炫动卡通,http://218.8.87.96/rtp/229.58.190.96:5000$黑龙江联通组播源-cache:218.8.87.96
