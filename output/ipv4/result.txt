@@ -1,10 +1,17 @@
 🕘️更新时间,#genre#
-2025-11-01 06:29:55,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8
+2025-11-01 18:30:26,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
-CCTV-10,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8
-CCTV-10,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8
+CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-9,http://sh.lnott.top:880/dx09.m3u8
+CCTV-9,http://sh.lnott.top:880/dx09.m3u8
 CCTV-11,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-11,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-13,http://sh.lnott.top:880/dx13.m3u8
+CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
@@ -48,8 +55,6 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 兵器科技,http://218.8.87.96:4000/rtp/229.58.190.29:5000
 
 📡卫视频道,#genre#
-浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv
-浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv
 湖南卫视,http://111.221.137.155:44330/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -57,16 +62,15 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 湖北卫视,http://111.221.137.155:44330/tsfile/live/0132_1.m3u8?key=txiptv
 黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv
 安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8?key=txiptv
-重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
-重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 重庆卫视,http://111.221.137.155:44330/tsfile/live/0142_1.m3u8?key=txiptv
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东方卫视,http://111.221.137.155:44330/tsfile/live/0107_1.m3u8?key=txiptv
 甘肃卫视,http://218.8.87.96:4000/rtp/229.58.190.185:5000
 甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
 广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
 贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
-海南卫视,http://sh.lnott.top:880/dx58.m3u8
 海南卫视,http://sh.lnott.top:880/dx58.m3u8
 海南卫视,http://218.8.87.96:4000/rtp/229.58.190.141:5000
 河北卫视,http://sh.lnott.top:880/dx63.m3u8
@@ -98,8 +102,6 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 深圳卫视,http://218.8.87.96/rtp/229.58.190.104:5000$黑龙江联通组播源-cache:218.8.87.96
 深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
 深圳卫视,http://111.221.137.155:44330/tsfile/live/1013_1.m3u8?key=txiptv
-三沙卫视,http://pa.kuangdeng.top:8081/hls/37/index.m3u8
-三沙卫视,http://pa.kuangdeng.top:8081/hls/37/index.m3u8
 天津卫视,http://218.8.87.96/rtp/229.58.190.161:5000$黑龙江联通组播源-cache:218.8.87.96
 天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8?key=txiptv
 西藏卫视,http://sh.lnott.top:880/dx57.m3u8
@@ -107,12 +109,12 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
 新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 新疆卫视,http://218.8.87.96/rtp/229.58.190.179:5000$黑龙江联通组播源-cache:218.8.87.96
-新疆卫视,http://113.106.171.234:8899/rtp/239.20.0.158:2114
-新疆卫视,http://113.106.171.234:8899/rtp/239.20.0.158:2114
 新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
+云南卫视,http://sh.lnott.top:880/dx49.m3u8
 云南卫视,http://218.8.87.96/rtp/229.58.190.176:5000$黑龙江联通组播源-cache:218.8.87.96
-云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8
 云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
+云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8
+云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8
 云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv
 
 🌊港·澳·台,#genre#
@@ -138,27 +140,31 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8
-淘剧场,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8
-淘娱乐,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887499.m3u8
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
+IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视,http://111.221.137.155:44330/tsfile/live/0139_1.m3u8?key=txiptv
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森洋片,https://tv543.cc/Smart.php?id=ettvwestern
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
@@ -166,9 +172,11 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+体育赛事,http://139.129.231.228/rtp/239.21.2.44:5002$山东电信组播源-cache:139.129.231.228
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://139.129.231.228/rtp/239.21.1.141:5002$山东电信组播源-cache:139.129.231.228
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 魅力足球,http://218.8.87.96/rtp/229.58.190.112:5000$黑龙江联通组播源-cache:218.8.87.96
@@ -188,14 +196,19 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 优漫卡通,http://218.8.87.96/rtp/229.58.190.165:5000$黑龙江联通组播源-cache:218.8.87.96
 金鹰卡通,http://218.8.87.96/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:218.8.87.96
-金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://139.129.231.228/rtp/239.21.1.48:5002$山东电信组播源-cache:139.129.231.228
 炫动卡通,http://218.8.87.96/rtp/229.58.190.96:5000$黑龙江联通组播源-cache:218.8.87.96
+炫动卡通,http://139.129.231.228/rtp/239.21.1.51:5002$山东电信组播源-cache:139.129.231.228
+七龙珠,http://live.nctv.top/huya.php?id=11601966
+七龙珠,http://live.nctv.top/huya.php?id=11601966
 七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
+中华小当家,http://live.nctv.top/huya.php?id=11342413
+猫和老鼠,http://live.nctv.top/huya.php?id=11352879
 
 🎮游戏频道,#genre#
 游戏风云,http://218.8.87.96/rtp/229.58.190.114:5000$黑龙江联通组播源-cache:218.8.87.96
 游戏竞技,http://218.8.87.96/rtp/229.58.190.197:5000$黑龙江联通组播源-cache:218.8.87.96
+海看电竞,http://139.129.231.228/rtp/239.21.1.135:5002$山东电信组播源-cache:139.129.231.228
 
 🎵音乐频道,#genre#
 风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
@@ -205,3 +218,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
+笑傲江湖,http://live.nctv.top/huya.php?id=26355790
+天龙八部,http://live.nctv.top/huya.php?id=20985816
+封神榜,http://live.nctv.top/huya.php?id=29465849
+射雕英雄传,http://live.nctv.top/huya.php?id=23824164
