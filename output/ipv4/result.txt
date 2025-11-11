@@ -1,13 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-11 18:33:23,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-12 06:29:49,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-6,http://111.221.137.155:44330/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV-6,http://111.221.137.155:44330/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
@@ -46,12 +42,12 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 
 📡卫视频道,#genre#
-广东卫视,http://sh.lnott.top:880/dx40.m3u8
-广东卫视,http://sh.lnott.top:880/dx40.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+吉林卫视,http://111.221.137.155:44330/tsfile/live/0017_1.m3u8?key=txiptv
 吉林卫视,http://111.221.137.155:44330/tsfile/live/0017_1.m3u8?key=txiptv
 内蒙古卫视,http://zqh2333.top:2222/rtp/239.93.24.8:5140
 山西卫视,http://zqh2333.top:2222/rtp/239.93.24.6:5140
@@ -60,9 +56,8 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 天津卫视,http://sh.lnott.top:880/dx30.m3u8
 天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8?key=txiptv
 西藏卫视,http://sh.lnott.top:880/dx57.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
 新疆卫视,http://sh.lnott.top:880/dx55.m3u8
+云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 云南卫视,http://sh.lnott.top:880/dx49.m3u8
 云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv
@@ -98,6 +93,9 @@ CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smi
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -117,9 +115,9 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
@@ -138,9 +136,9 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-音乐之声,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐之声,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
