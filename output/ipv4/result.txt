@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 18:28:11,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-16 06:24:36,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
@@ -7,13 +7,11 @@ CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-3,http://120.46.223.160/PHP/MG.php?id=624878271
-CCTV-3,http://120.46.223.160/PHP/MG.php?id=624878271
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 CCTV-4,http://120.46.223.160/PHP/MG.php?id=631780421
-CCTV-4,http://112.6.239.227:8207/hls/4/index.m3u8
-CCTV-4,http://112.6.239.227:8207/hls/4/index.m3u8
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=631780421
 CCTV-5,http://120.46.223.160/PHP/MG.php?id=641886683
+CCTV-5,http://112.6.239.227:8207/hls/5/index.m3u8
 CCTV-5,http://112.6.239.227:8207/hls/5/index.m3u8
 CCTV-5+,http://120.46.223.160/PHP/MG.php?id=641886773
 CCTV-5+,http://112.6.239.227:8207/hls/6/index.m3u8
@@ -87,8 +85,6 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 东方卫视,http://120.46.223.160/PHP/MG.php?id=651632648
 东南卫视,http://120.46.223.160/PHP/MG.php?id=849116810
 东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8
-广西卫视,http://sh.lnott.top:880/dx41.m3u8
-广西卫视,http://sh.lnott.top:880/dx41.m3u8
 广西卫视,http://112.6.239.227:8207/hls/32/index.m3u8
 海南卫视,http://120.46.223.160/PHP/MG.php?id=947472502
 海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8
@@ -110,6 +106,7 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8
 深圳卫视,http://112.6.239.227:8207/hls/20/index.m3u8
 天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
 西藏卫视,http://sh.lnott.top:880/dx57.m3u8
 新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 云南卫视,http://sh.lnott.top:880/dx49.m3u8
@@ -150,6 +147,9 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -190,10 +190,11 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 动漫秀场,rtsp://115.153.233.154/PLTV/88888888/224/3221225613/iptv7997.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 优漫卡通,http://120.46.223.160/PHP/MG.php?id=626064703
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
+金鹰卡通,http://101.66.199.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
-蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 
@@ -205,8 +206,4 @@ CCTV-15,http://120.46.223.160/PHP/MG.php?id=673168223
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
-笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
-天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
-仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
-新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
+水浒传,https://lunbo.freetv.top/yy/1353215589
