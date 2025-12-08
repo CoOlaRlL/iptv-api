@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-08 18:31:52,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2025-12-09 06:54:51,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -58,20 +58,29 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
+世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
 浙江卫视,http://183.220.107.138:4022/rtp/239.11.0.70:5140
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://183.220.107.138:4022/rtp/239.11.0.121:5140
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://183.220.107.138:4022/rtp/239.11.0.36:5140
 重庆卫视,http://183.220.107.138:4022/rtp/239.11.0.116:5140
 东方卫视,http://183.220.107.138:4022/rtp/239.11.0.68:5140
-贵州卫视,http://60.13.52.236:65500/newlive/live/hls/31/live.m3u8
-贵州卫视,http://60.13.52.236:65500/newlive/live/hls/31/live.m3u8
 河北卫视,http://183.220.107.138:4022/rtp/239.11.0.31:5140
+河北卫视,http://60.13.52.236:65500/newlive/live/hls/34/live.m3u8
 河北卫视,http://60.13.52.236:65500/newlive/live/hls/34/live.m3u8
 河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
 吉林卫视,http://183.220.107.138:4022/rtp/239.11.0.35:5140
@@ -119,23 +128,20 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
-靖天映画,http://210.61.15.55:50007/4gtv-4gtv055/index.m3u8?proxy=true
-靖天映画,http://210.61.15.55:50007/4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 靖天戏剧,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://210.61.15.55:50007/li-4gtv-4gtv058/index.m3u8?proxy=true
-靖天戏剧,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv058/index.m3u8?proxy=true
-靖天戏剧,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://210.61.15.55:50007/li-4gtv-4gtv058/index.m3u8?proxy=true
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
@@ -165,9 +171,12 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 动漫秀场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225613/iptv7997.smil
 动漫秀场,rtsp://115.153.233.154/PLTV/88888888/224/3221225613/iptv7997.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://125.42.148.146:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://125.42.148.146:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.42.148.146:9901/tsfile/live/0107_1.m3u8
+金鹰卡通,http://125.42.148.146:9901/tsfile/live/0107_1.m3u8
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
+蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
@@ -182,3 +191,10 @@ CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
+笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
+天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
+鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
+仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
+西游记,http://www.douzhicloud.site:35455/huya/26355861
+三国演义,http://www.douzhicloud.site:35455/huya/11602081
+新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
