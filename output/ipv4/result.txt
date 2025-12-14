@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-14 18:30:14,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+2025-12-15 06:29:23,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
@@ -9,8 +9,7 @@ CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
-CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
+CCTV-10,http://183.220.107.138:4022/rtp/239.11.0.112:5140
 CCTV-10,http://183.220.107.138:4022/rtp/239.11.0.112:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140
@@ -18,8 +17,6 @@ CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -65,10 +62,10 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
-世界地理,http://ygbh.site/php/bfgd.php?id=177
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
+世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
@@ -89,24 +86,44 @@ CETV4,rtsp://116.176.26.19/PLTV/88888910/224/3221225594/100001000000000600000000
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://183.220.107.138:4022/rtp/239.11.0.68:5140
+广西卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8
+广西卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8
+贵州卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226908/.m3u8
+海南卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226922/.m3u8
+河北卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226917/.m3u8
 河北卫视,http://183.220.107.138:4022/rtp/239.11.0.31:5140
+吉林卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226912/.m3u8
 吉林卫视,http://183.220.107.138:4022/rtp/239.11.0.35:5140
+江苏卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226491/.m3u8
 江苏卫视,http://183.220.107.138:4022/rtp/239.11.0.76:5140
+江西卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/.m3u8
+辽宁卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/.m3u8
+内蒙古卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/.m3u8
+宁夏卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/.m3u8
 宁夏卫视,http://183.220.107.138:4022/rtp/239.11.0.57:5140
+青海卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226916/.m3u8
+山东卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/.m3u8
 山东卫视,http://183.220.107.138:4022/rtp/239.11.0.73:5140
-陕西卫视,http://124.64.223.204:8686/rtp/239.3.1.41:8140
-陕西卫视,http://124.64.223.204:8686/rtp/239.3.1.41:8140
+山西卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/.m3u8
+陕西卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/.m3u8
 陕西卫视,http://183.220.107.138:4022/rtp/239.11.0.54:5140
-四川卫视,http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8
-四川卫视,http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8
+四川卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/.m3u8
 四川卫视,http://183.220.107.138:4022/rtp/239.11.0.78:5140
+深圳卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/.m3u8
 深圳卫视,http://60.13.52.236:65500/newlive/live/hls/24/live.m3u8
+深圳卫视,http://60.13.52.236:65500/newlive/live/hls/24/live.m3u8
+三沙卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/.m3u8
 三沙卫视,http://124.64.223.204:8686/rtp/239.3.1.155:4120
+三沙卫视,http://124.64.223.204:8686/rtp/239.3.1.155:4120
+天津卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/.m3u8
 天津卫视,http://60.13.52.236:65500/newlive/live/hls/28/live.m3u8
 天津卫视,http://183.220.107.138:4022/rtp/239.11.0.123:5140
+西藏卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/.m3u8
 西藏卫视,http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8
 西藏卫视,http://183.220.107.138:4022/rtp/239.11.0.53:5140
+新疆卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/.m3u8
 新疆卫视,http://183.220.107.138:4022/rtp/239.11.0.58:5140
+云南卫视,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226928/.m3u8
 云南卫视,http://60.13.52.236:65500/newlive/live/hls/43/live.m3u8
 云南卫视,http://183.220.107.138:4022/rtp/239.11.0.52:5140
 
@@ -143,6 +160,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+淘剧场,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/.m3u8
+淘娱乐,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/.m3u8
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -166,6 +185,7 @@ CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+睛彩广场舞,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
@@ -179,10 +199,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 动漫秀场,rtsp://115.153.233.154/PLTV/88888888/224/3221225613/iptv7997.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
-蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
@@ -198,10 +215,3 @@ CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
-笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
-天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
-仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
-西游记,http://www.douzhicloud.site:35455/huya/26355861
-三国演义,http://www.douzhicloud.site:35455/huya/11602081
-新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
